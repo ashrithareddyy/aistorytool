@@ -18,6 +18,7 @@ This web app uses **Falcon-7B** (via Hugging Face) for story generation and **Co
 ```bash
 git clone https://github.com/your-username/ai-story-generator.git
 cd ai-story-generator
+---
 
 ### 2. install dependencies 
 `pip install -r requirements.txt`
@@ -27,7 +28,7 @@ cd ai-story-generator
 
 
 ** Model Info
-```Text Generation: Falcon-7B via Hugging Face Inference API
+Text Generation: Falcon-7B via Hugging Face Inference API
 Text to Speech: Coqui TTS (Tacotron2-DDC)**
 
  
