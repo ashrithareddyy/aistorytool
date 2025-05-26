@@ -23,7 +23,7 @@ cd ai-story-generator
 `pip install -r requirements.txt`
 
 ### 3. Add your Hugging Face API token
-`HF_TOKEN=your-huggingface-api-key-here
+`HF_TOKEN=your-huggingface-api-key-here`
 
 
 
